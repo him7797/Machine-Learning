@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning repo
+Machine Learning Linear Regression-Gradient Descent and Cost Function 
